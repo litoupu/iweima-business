@@ -1,0 +1,11 @@
+2014-12-05 16:22:37 666 INFO  [main] [XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/iweima-spring.xml]
+2014-12-05 16:22:38 036 INFO  [main] [GenericApplicationContext:513] Refreshing org.springframework.context.support.GenericApplicationContext@3ffc5af1: startup date [Fri Dec 05 16:22:38 CST 2014]; root of context hierarchy
+2014-12-05 16:22:38 109 INFO  [main] [PropertyPlaceholderConfigurer:172] Loading properties file from class path resource [config/system.properties]
+2014-12-05 16:22:38 110 INFO  [main] [PropertyPlaceholderConfigurer:172] Loading properties file from class path resource [config/log4j.properties]
+2014-12-05 16:22:38 139 INFO  [main] [BaseIweimaTest:15] ----testPrint----
+2014-12-05 16:22:38 142 INFO  [Thread-0] [GenericApplicationContext:873] Closing org.springframework.context.support.GenericApplicationContext@3ffc5af1: startup date [Fri Dec 05 16:22:38 CST 2014]; root of context hierarchy
+2014-12-05 16:35:59 893 INFO  [main] [XmlBeanDefinitionReader:316] Loading XML bean definitions from class path resource [spring/iweima-spring.xml]
+2014-12-05 16:36:00 331 INFO  [main] [GenericApplicationContext:513] Refreshing org.springframework.context.support.GenericApplicationContext@7995092a: startup date [Fri Dec 05 16:36:00 CST 2014]; root of context hierarchy
+2014-12-05 16:36:00 433 INFO  [main] [PropertyPlaceholderConfigurer:172] Loading properties file from class path resource [config/system.properties]
+2014-12-05 16:36:00 467 INFO  [main] [BaseIweimaTest:15] ----testPrint----
+2014-12-05 16:36:00 470 INFO  [Thread-0] [GenericApplicationContext:873] Closing org.springframework.context.support.GenericApplicationContext@7995092a: startup date [Fri Dec 05 16:36:00 CST 2014]; root of context hierarchy
